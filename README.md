@@ -1,5 +1,4 @@
 # CrowdCounting
- ![image](https://github.com/mubinmodi/Crowdcounting/assets/47493706/d334b55f-e01b-4c20-9311-97c0d1803d2b)
 # Real-time Crowd Counting Application with Live Analytics
 
 ## Authors:
