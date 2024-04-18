@@ -10,7 +10,6 @@
 ![demo](https://github.com/mubinmodi/Crowdcounting/assets/47493706/e1a5d00f-e6cf-4162-b5bb-e5b37161cd80)
 
 
-![demo](https://github.com/mubinmodi/Crowdcounting/assets/47493706/4238adf3-0e92-4c36-a3ad-4434cf34e496)
 
 ## Affiliation:
 Dept. of Information Technology Engineering, M.H. Saboo Siddik College of Engineering, Mumbai, India
